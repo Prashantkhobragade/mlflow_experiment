@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/project/mlflow_experiment/mlruns/0/232cddad426a4899a85cc078124fb265/artifacts
+end_time: 1696671902070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 232cddad426a4899a85cc078124fb265
+run_name: delicate-fox-400
+run_uuid: 232cddad426a4899a85cc078124fb265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696671898404
+status: 3
+tags: []
+user_id: ASUS PC
