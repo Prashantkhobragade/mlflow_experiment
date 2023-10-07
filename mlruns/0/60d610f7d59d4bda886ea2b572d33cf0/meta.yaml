@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/project/mlflow_experiment/mlruns/0/60d610f7d59d4bda886ea2b572d33cf0/artifacts
+end_time: 1696676031832
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60d610f7d59d4bda886ea2b572d33cf0
+run_name: marvelous-eel-155
+run_uuid: 60d610f7d59d4bda886ea2b572d33cf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696676026438
+status: 3
+tags: []
+user_id: ASUS PC
